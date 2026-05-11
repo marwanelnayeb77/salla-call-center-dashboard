@@ -18,7 +18,7 @@ The dashboard helps in monitoring efficiency, customer experience, and overall c
 
 ### Salla Call Center Performance Dashboard
 
-![Dashboard](salla_call_center_dashboard.png)
+![Dashboard](salla_dashboard.jpeg)
 
 ---
 
