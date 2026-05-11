@@ -11,7 +11,7 @@ This dashboard presents key call center performance metrics and operational insi
 
 ## Dashboard Preview
 
-![Salla Dashboard](dashboard.png)
+![Salla Dashboard](dashboard.png.PNG)
 
 ## Tools Used
 
