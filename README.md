@@ -10,12 +10,8 @@ This dashboard presents key call center performance metrics and operational insi
 - Abandon Rate: 1.32%
 ## Dashboard Preview
 
-### Part 1
-![Dashboard Part 1](dashboard_part1.jpeg)
-
-### Part 2
-![Dashboard Part 2](dashboard_part2.jpeg)
-## Tools Used
+![Dashboard Part 1](dashboard_part1.png.jpeg)
+![Dashboard Part 2](dashboard_part2.png.jpeg)
 
 - Power BI
 - Data Analysis
