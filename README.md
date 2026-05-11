@@ -10,8 +10,9 @@ This dashboard presents key call center performance metrics and operational insi
 - Abandon Rate: 1.32%
 ## Dashboard Preview
 
-![Dashboard Part 1](dashboard_part1.png.jpeg)
-![Dashboard Part 2](dashboard_part2.png.jpeg)
+### Salla Call Center Performance Dashboard
+
+![Dashboard](salla_call_center_dashboard.png)
 
 - Power BI
 - Data Analysis
